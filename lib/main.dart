@@ -13,7 +13,7 @@ class TestApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: ChartPage(),
+      home: ScreenTest(),
     );
   }
 }
